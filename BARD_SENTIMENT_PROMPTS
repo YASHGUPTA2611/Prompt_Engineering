@@ -1,5 +1,0 @@
-!pip install git+https://github.com/dsdanielpark/Bard-API.git
-
-from bardapi import Bard
-import re
-import json
