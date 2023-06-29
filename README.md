@@ -8,3 +8,6 @@ Example of the output of a news :-
 
 
 To get your own __Secure-1PSID, follow this :- https://github.com/dsdanielpark/Bard-API/blob/main/assets/bard_api.gif
+
+
+### For more prompt ideas, visit :- https://github.com/dsdanielpark/amazing-bard-prompts/blob/main/bard_prompts/bard_prompts_english.csv
